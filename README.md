@@ -1,3 +1,2 @@
 # hello-world1
-segunda tentativa
-estou tentando passo-a passo. 
+this is my debut here. i am really concerned.
